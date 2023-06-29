@@ -1,3 +1,6 @@
+.venv/
+lm_eval.egg-info/
+
 env
 *.pyc
 data/
